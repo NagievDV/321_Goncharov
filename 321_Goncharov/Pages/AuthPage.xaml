@@ -9,17 +9,18 @@
       Title="Авторизация">
 
     <Grid>
+
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200"/>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+
         <Grid.RowDefinitions>
             <RowDefinition Height="45"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
-
         </Grid.RowDefinitions>
 
         <Label Name="lblLogin"
@@ -30,6 +31,7 @@
                VerticalAlignment="Top"
                Margin="0"
                />
+
         <Label Name="lblPassword"
                Grid.Row="1"
                Grid.Column="1"
@@ -38,6 +40,7 @@
                VerticalAlignment="Top"
                Margin="0,80,0,0"
                />
+
         <TextBox Name="tbLogin"
                  Grid.Row="1"
                  Grid.Column="2"
@@ -45,17 +48,19 @@
                  VerticalAlignment="Top"
                  Margin="0"
                  TextChanged="tbLogin_TextChanged"
-                 
+                 ToolTip="Введите логин или почту"
                  />
-        <PasswordBox
-                 Grid.Row="1"
-                 Grid.Column="2"
-                 Name="pbPassword"
-                 HorizontalAlignment="Left"
-                 VerticalAlignment="Top"
-                 Margin="0,80,0,0"
-            PasswordChanged="pbPassword_PasswordChanged"
-                 />
+
+        <PasswordBox Grid.Row="1"
+                     Grid.Column="2"
+                     Name="pbPassword"
+                     HorizontalAlignment="Left"
+                     VerticalAlignment="Top"
+                     Margin="0,80,0,0"
+                     PasswordChanged="pbPassword_PasswordChanged"
+                     ToolTip="Введите пароль"
+                     />
+
         <Button Grid.Row="2"
                 Grid.Column="2"
                 Name="btnLogin"
@@ -64,7 +69,9 @@
                 VerticalAlignment="Top"
                 Margin="0"
                 Width="150" Click="btnLogin_Click"
+                ToolTip="Вход"
                 />
+
         <Button Grid.Row="2"
                 Grid.Column="2"
                 Name="btnRegister"
@@ -73,17 +80,20 @@
                 VerticalAlignment="Top"
                 Margin="0,50,0,0"
                 Width="150"
+                ToolTip="Регистрация"
                 />
 
         <TextBlock Text="Логин или почта"
                    Foreground="Gray"
                    Name="txtHintLogin"
-                   Margin="0,9,0,0"
+                   Margin="0,10,0,0"
                    VerticalAlignment="Top"
                    Width="150"
                    Grid.Column="2"
                    Grid.Row="1"
-                   HorizontalAlignment="Left"/>
+                   HorizontalAlignment="Left"
+                   />
+
         <TextBlock Text="Пароль"
                    Foreground="Gray"
                    Name="txtHintPassword"
@@ -92,9 +102,8 @@
                    Width="150"
                    Grid.Column="2"
                    Grid.Row="1"
-                   HorizontalAlignment="Left"/>
-
-
+                   HorizontalAlignment="Left"
+                   />
 
     </Grid>
 </Page>

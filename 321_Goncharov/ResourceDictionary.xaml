@@ -45,12 +45,17 @@
     <Style TargetType="PasswordBox">
         <Setter Property="FontFamily" Value="Bahnschrift"/>
         <Setter Property="FontSize" Value="14pt"/>
-        <Setter Property="Foreground" Value="#F3E5E9"/>
         <Setter Property="Margin" Value="5"/>
         <Setter Property="Width" Value="150"/>
         <Setter Property="Height" Value="40"/>
         <Setter Property="Foreground" Value="Black"/>
         <Setter Property="HorizontalContentAlignment" Value="Left"/>
         <Setter Property="VerticalContentAlignment" Value="Center"/>
+    </Style>
+    <Style TargetType="ToolTip">
+        <Setter Property="FontFamily" Value="Bahnschrift"/>
+        <Setter Property="FontSize" Value="14pt"/>
+        <Setter Property="FontStyle" Value="Normal"/>
+        <Setter Property="Foreground" Value="Black"/>
     </Style>
 </ResourceDictionary>
