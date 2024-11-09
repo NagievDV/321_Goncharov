@@ -11,19 +11,18 @@
         <Setter Property="BorderBrush" Value="#1C0D11"/>
         <Setter Property="BorderThickness" Value="2"/>
     </Style>
-    
+
     <Style TargetType="Grid">
         <Setter Property="Background" Value="#2F4454"/>
     </Style>
-    
+
     <Style TargetType="TextBlock">
         <Setter Property="FontFamily" Value="Bahnschrift"/>
         <Setter Property="FontSize" Value="14pt"/>
-        <Setter Property="Foreground" Value="#F3E5E9"/>
-        <Setter Property="Margin" Value="5"/>
+        <Setter Property="Foreground" Value="DimGray"/>
     </Style>
 
-    <Style TargetType="Label">
+    <Style TargetType="Label" x:Key="LabelStyle">
         <Setter Property="FontFamily" Value="Bahnschrift"/>
         <Setter Property="FontSize" Value="14pt"/>
         <Setter Property="Foreground" Value="#F3E5E9"/>
@@ -58,4 +57,23 @@
         <Setter Property="FontStyle" Value="Normal"/>
         <Setter Property="Foreground" Value="Black"/>
     </Style>
+
+    <Style TargetType="ComboBox">
+        <Setter Property="FontFamily" Value="Bahnschrift"/>
+        <Setter Property="FontSize" Value="14pt"/>
+        <Setter Property="Margin" Value="5"/>
+        <Setter Property="Width" Value="150"/>
+        <Setter Property="Height" Value="40"/>
+        <Setter Property="HorizontalContentAlignment" Value="Left"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Background" Value="#2F4454"/>
+        <Setter Property="Foreground" Value="Black"/>
+    </Style>
+
+    <Style TargetType="ComboBoxItem">
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="Background" Value="#2F4454"/>
+
+    </Style>
+
 </ResourceDictionary>

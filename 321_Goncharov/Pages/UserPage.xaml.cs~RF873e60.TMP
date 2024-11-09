@@ -16,14 +16,13 @@ using System.Windows.Shapes;
 namespace _321_Goncharov.Pages
 {
     /// <summary>
-    /// Interaction logic for AdminPage.xaml
+    /// Interaction logic for UserPage.xaml
     /// </summary>
-    public partial class AdminPage : Page
+    public partial class UserPage : Page
     {
-        public AdminPage()
+        public UserPage()
         {
             InitializeComponent();
-            dgUser.ItemsSource = Entities.GetContext().User.ToList();
         }
     }
 }
