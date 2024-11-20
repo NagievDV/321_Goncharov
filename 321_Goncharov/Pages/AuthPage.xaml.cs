@@ -95,10 +95,5 @@ namespace _321_Goncharov.Pages
         {
             NavigationService?.Navigate(new RegistrationPage());
         }
-
-        private void btnRegister_Click_1(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }

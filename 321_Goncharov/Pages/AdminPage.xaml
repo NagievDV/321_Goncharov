@@ -6,7 +6,8 @@
       xmlns:local="clr-namespace:_321_Goncharov.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="360" d:DesignWidth="800"
-      Title="Администратор">
+      Title="Администратор"
+      IsVisibleChanged="Page_IsVisibleChanged">
 
     <Grid>
 
@@ -30,7 +31,7 @@
                 <DataGridTemplateColumn Width="*">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <Button Name="btnEdit" Content="Редактировать" Width="160" ></Button>
+                            <Button Name="btnEdit" Content="Редактировать" Width="160" Click="btnEdit_Click" ></Button>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>
@@ -41,14 +42,14 @@
                 Name="btnAdd"
                 Content="Добавить"
                 ToolTip="Добавить пользователя"
-                HorizontalAlignment="Left"
+                HorizontalAlignment="Left" Click="btnAdd_Click"
                 />
 
         <Button Grid.Row="1"
                 Name="btnDel"
                 Content="Удалить"
                 ToolTip="Удалить пользователя"
-                HorizontalAlignment="Right"
+                HorizontalAlignment="Right" Click="btnDel_Click"
                 />
     </Grid>
 
