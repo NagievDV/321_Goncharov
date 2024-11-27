@@ -19,6 +19,6 @@ namespace _321_Goncharov
         public string Password { get; set; }
         public string Role { get; set; }
         public string FIO { get; set; }
-        public string Photo { get; set; }
+        public byte[] Photo { get; set; }
     }
 }

@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\",
+  "WorkspaceRootPath": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|c:\\users\\gdmit\\desktop\\321_goncharov\\321_goncharov\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_goncharov\\pages\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|solutionrelative:321_goncharov\\pages\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|e:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0430\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_goncharov\\321_goncharov\\pages\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|solutionrelative:321_goncharov\\pages\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_goncharov\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|solutionrelative:321_goncharov\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|c:\\users\\gdmit\\desktop\\321_goncharov\\321_goncharov\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|solutionrelative:321_goncharov\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|c:\\users\\gdmit\\desktop\\321_goncharov\\321_goncharov\\pages\\adduserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|solutionrelative:321_goncharov\\pages\\adduserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|c:\\users\\gdmit\\desktop\\321_goncharov\\321_goncharov\\pages\\adduserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|solutionrelative:321_goncharov\\pages\\adduserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|c:\\users\\gdmit\\desktop\\321_goncharov\\321_goncharov\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|solutionrelative:321_goncharov\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|c:\\users\\gdmit\\desktop\\321_goncharov\\321_goncharov\\resourcedictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_goncharov\\resourcedictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|solutionrelative:321_goncharov\\resourcedictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|e:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0430\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_goncharov\\321_goncharov\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEB82255-045D-404A-9A7D-9477E3B75D6E}|321_Goncharov\\321_Goncharov.csproj|solutionrelative:321_goncharov\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pages\\AdminPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\Pages\\AdminPage.xaml.cs",
+              "DocumentIndex": 4,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_Goncharov\\Pages\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "321_Goncharov\\Pages\\RegistrationPage.xaml",
+              "ToolTip": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_Goncharov\\Pages\\RegistrationPage.xaml",
+              "RelativeToolTip": "321_Goncharov\\Pages\\RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T09:11:17.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResourceDictionary.xaml",
+              "DocumentMoniker": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_Goncharov\\ResourceDictionary.xaml",
+              "RelativeDocumentMoniker": "321_Goncharov\\ResourceDictionary.xaml",
+              "ToolTip": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_Goncharov\\ResourceDictionary.xaml",
+              "RelativeToolTip": "321_Goncharov\\ResourceDictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T08:41:45.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_Goncharov\\Pages\\AdminPage.xaml.cs",
               "RelativeDocumentMoniker": "321_Goncharov\\Pages\\AdminPage.xaml.cs",
-              "ToolTip": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\Pages\\AdminPage.xaml.cs*",
-              "RelativeToolTip": "321_Goncharov\\Pages\\AdminPage.xaml.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwEIAAAANAAAAAAAAAA==",
+              "ToolTip": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_Goncharov\\Pages\\AdminPage.xaml.cs",
+              "RelativeToolTip": "321_Goncharov\\Pages\\AdminPage.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAawDwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T09:05:31.911Z",
               "EditorCaption": ""
@@ -52,63 +72,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminPage.xaml",
-              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\Pages\\AdminPage.xaml",
-              "RelativeDocumentMoniker": "321_Goncharov\\Pages\\AdminPage.xaml",
-              "ToolTip": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\Pages\\AdminPage.xaml*",
-              "RelativeToolTip": "321_Goncharov\\Pages\\AdminPage.xaml*",
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_Goncharov\\Pages\\UserPage.xaml",
+              "RelativeDocumentMoniker": "321_Goncharov\\Pages\\UserPage.xaml",
+              "ToolTip": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_Goncharov\\Pages\\UserPage.xaml*",
+              "RelativeToolTip": "321_Goncharov\\Pages\\UserPage.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-20T09:05:17.589Z",
+              "WhenOpened": "2024-11-25T07:53:09.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegistrationPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\Pages\\RegistrationPage.xaml.cs",
-              "RelativeDocumentMoniker": "321_Goncharov\\Pages\\RegistrationPage.xaml.cs",
-              "ToolTip": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\Pages\\RegistrationPage.xaml.cs",
-              "RelativeToolTip": "321_Goncharov\\Pages\\RegistrationPage.xaml.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEwAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserPage.xaml.cs",
+              "DocumentMoniker": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_Goncharov\\Pages\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "321_Goncharov\\Pages\\UserPage.xaml.cs",
+              "ToolTip": "E:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0410\u043A\u0441\u0451\u043D\u043E\u0432\u0430\\321_Goncharov\\321_Goncharov\\Pages\\UserPage.xaml.cs*",
+              "RelativeToolTip": "321_Goncharov\\Pages\\UserPage.xaml.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAlwD4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T09:03:28.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResourceDictionary.xaml",
-              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\ResourceDictionary.xaml",
-              "RelativeDocumentMoniker": "321_Goncharov\\ResourceDictionary.xaml",
-              "ToolTip": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\ResourceDictionary.xaml",
-              "RelativeToolTip": "321_Goncharov\\ResourceDictionary.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-20T08:35:05.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pages\\AddUserPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\Pages\\AddUserPage.xaml.cs",
-              "RelativeDocumentMoniker": "321_Goncharov\\Pages\\AddUserPage.xaml.cs",
-              "ToolTip": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\Pages\\AddUserPage.xaml.cs",
-              "RelativeToolTip": "321_Goncharov\\Pages\\AddUserPage.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:53:51.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddUserPage.xaml",
-              "DocumentMoniker": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\Pages\\AddUserPage.xaml",
-              "RelativeDocumentMoniker": "321_Goncharov\\Pages\\AddUserPage.xaml",
-              "ToolTip": "C:\\Users\\gdmit\\Desktop\\321_Goncharov\\321_Goncharov\\Pages\\AddUserPage.xaml",
-              "RelativeToolTip": "321_Goncharov\\Pages\\AddUserPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-20T08:32:01.187Z",
+              "WhenOpened": "2024-11-25T08:16:20.329Z",
               "EditorCaption": ""
             }
           ]
